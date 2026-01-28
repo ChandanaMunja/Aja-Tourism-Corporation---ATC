@@ -22,4 +22,4 @@ This project demonstrates hands-on experience in building and deploying a real-w
 
 ## Author
 **Chandana Munja**  
-Computer Science Graduate | Full Stack Java Intern
+Java Full Stack Developer (Fresher) | Computer Science Graduate

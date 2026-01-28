@@ -13,9 +13,10 @@ Aja Tourism Corporation (ATC) is a full-stack tourism web application that enabl
 - Focused on clean UI, usability, and real-world application flow  
 
 ## Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
+**Frontend:** HTML, CSS, JavaScript, React.js
 **Backend:** Java, Spring Boot, REST APIs  
 **Database:** MySQL  
+**Methodologies:** Agile, Scrum
 
 ## Outcome
 This project demonstrates hands-on experience in building and deploying a real-world full-stack application, showcasing frontend design skills, backend integration, and practical problem-solving abilities.
